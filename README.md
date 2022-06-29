@@ -1,6 +1,5 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+look at the project here: 👉 https://fercho240899.github.io/profile-card-component-main/
 
-![Frnando Castro Amaro](https://fercho240899.github.io/profile-card-component-main/)
-
+![Fernando Castro Amaro](./design/desktop-preview.jpg)
